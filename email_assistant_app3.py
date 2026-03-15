@@ -56,7 +56,7 @@ def save_to_csv(user_input, assistant_reply):
 # Streamlit UI
 # -----------------------
 st.set_page_config(page_title="AI Email Assistant", page_icon="📧")
-st.title("📧 AI Email Assistant")
+st.title("📧 DataZoic Email Assistant")
 st.write("""
 This assistant reads your email or instruction carefully, understands the intent, and provides a **clear, relevant, professional response**.
 It will not generate generic emails. You can also ask for **step-by-step guidance, acknowledgment emails, follow-ups, or draft replies**.
