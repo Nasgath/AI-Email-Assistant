@@ -7,7 +7,7 @@ import os
 # -----------------------
 # Configuration
 # -----------------------
-API_KEY = "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"  # <-- Replace with your OpenRouter API key
+API_KEY = ""  # <-- Replace with your OpenRouter API key
 URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Folder to store CSV
