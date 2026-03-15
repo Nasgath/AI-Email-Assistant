@@ -21,9 +21,6 @@ It understands email instructions, drafts emails, follow-ups, acknowledgments, o
    git clone https://github.com/Nasgath/AI-Email-Assistant.git
 
 
-
-----------------------
-
 # ================================
 # AI Email Assistant - Full Setup
 # ================================
